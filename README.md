@@ -30,3 +30,13 @@ The process goes as followed:
 
 
 
+![Description of Methodology](https://github.com/user-attachments/assets/525e7ffe-da8a-437c-aed1-d0b8c703f99d)
+
+
+![flow chart of states](https://github.com/user-attachments/assets/18037209-6b90-45cb-853f-676102abba4b)
+
+
+![Format of States of and Commands](https://github.com/user-attachments/assets/86695e8f-6437-4b9b-b8ae-50c55c9092cf)
+
+
+![Initial State and Final State](https://github.com/user-attachments/assets/f67aaf0c-8919-4fb4-a8a2-e5fc5a77eb82)
