@@ -52,6 +52,7 @@ on the table and the rightmost character is the top of the stack. Apply the same
 Output column.
 
 Step 1
+
 ![BW_sim_step1](https://github.com/user-attachments/assets/be19a253-97bb-4ec5-bbb2-47d3df91879c)
 
 For step 1, enter any number of characters you wish at each location without entering repeated
