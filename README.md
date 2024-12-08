@@ -47,7 +47,7 @@ The process goes as followed:
 
 For the GUI version
 
-To run the simulator in Windows use the Blocks_World_GUI.exe. For MacOS and Linux, go to the dist directory in the Blocks_World_GUI directory and click on the Blocks_World_GUI file. The simulation process will require a bit of imagination. As you look at the simulator, picture the
+To run the simulator in Windows use the Blocks_World_GUI.exe. For MacOS and Linux, go to the dist directory in Linux/ and click on the Blocks_World_GUI file. The simulation process will require a bit of imagination. As you look at the simulator, picture the
 Start Location column as a table with the 3 stack locations turned 90 degrees counterclockwise,
 the leftmost edges of the text boxes being the table and the rightmost edges of the stacks being the
 top of the stacks. Then, as you enter character values try to keep in mind that the first character is
