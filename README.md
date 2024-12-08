@@ -1,4 +1,4 @@
-# Blocks World
+# Blocks World Simulator
 
 The Blocks World project was done for the sole purpose of emulating the changing of location of each block according to what the content of the final state. Not only the program will show each different state of change, but also report on the different commands manipulating certain blocks and print what location the robot hand is at and the next location the robot hand will go. The number of states will be printed alongside the list of commands for the state and relations for the block. This feature is to keep track of the number of possible steps for the blocks going from initial state to final state.
 
