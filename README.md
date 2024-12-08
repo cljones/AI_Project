@@ -47,7 +47,7 @@ The process goes as followed:
 
 For the GUI version
 
-The simulation process will require a bit of imagination. As you look at the simulator, picture the
+To run the simulator in Windows use the Blocks_World_GUI.exe. For MacOS and Linux, go to the dist directory in the Blocks_World_GUI directory and click on the Blocks_World_GUI file. The simulation process will require a bit of imagination. As you look at the simulator, picture the
 Start Location column as a table with the 3 stack locations turned 90 degrees counterclockwise,
 the leftmost edges of the text boxes being the table and the rightmost edges of the stacks being the
 top of the stacks. Then, as you enter character values try to keep in mind that the first character is
@@ -65,6 +65,7 @@ and press “OK” on the prompt to proceed.
 ![BW_sim_step2](https://github.com/user-attachments/assets/2656ca34-2cef-4e38-b068-0e2f8630e956)
 
 Step 2
+
 Click the “Run” button to start the simulation. The “Moves in Action” window showing the step-by-step process of the picking and placing of the characters as though they are blocks being moved by a robot hand. The first action represented by State 0 is the initial state with nothing moved just yet. The moves made for the state are listed below the initial state. L0 is Location 1, L1 is Location 2 and L2 is Location 3. The corresponding relationships are displayed, and the new state of the stacks are shown after the operations and relationships. NOOP stands for no operation.
 
 ![BW_sim_step3](https://github.com/user-attachments/assets/b1407a34-18ed-47b2-b30d-6146342a6819)
