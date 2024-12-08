@@ -42,6 +42,9 @@ The process goes as followed:
 ![Initial State and Final State](https://github.com/user-attachments/assets/f67aaf0c-8919-4fb4-a8a2-e5fc5a77eb82)
 
 
+
+
+
 For the GUI version
 
 The simulation process will require a bit of imagination. As you look at the simulator, picture the
